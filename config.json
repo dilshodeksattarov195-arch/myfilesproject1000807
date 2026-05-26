@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondonnect",
+        "uuid": 6235689,
+        "checksum": "w8ummo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
